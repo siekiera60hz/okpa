@@ -1,4 +1,4 @@
-/*
+(/*
  * PlatformSpoof for Kettu Android (Vendetta-family plugin format).
  * Based on the Vencord PlatformSpoof implementation in ../index.tsx.
  * Licensed GPL-3.0-or-later (see the upstream header).
@@ -276,3 +276,4 @@
         }
     };
 })()
+)
