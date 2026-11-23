@@ -1,0 +1,15 @@
+{
+  "name": "PlatformSpoof (Kettu)",
+  "description": "Spoof Discord gateway platform on Kettu Android (Vendetta-compatible).",
+  "authors": [
+    {
+      "name": "k1ng_op",
+      "id": "641266820187160576"
+    }
+  ],
+  "main": "index.js",
+  "hash": "a4db35fe4fde827251bee248e55c5e0a33e79b3c24d543509fd41b6576b75a96",
+  "vendetta": {
+    "icon": "ic_badge_staff"
+  }
+}
